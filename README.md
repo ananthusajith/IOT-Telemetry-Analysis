@@ -5,7 +5,7 @@ The data was generated from a series of three identical, custom-built, breadboar
 three IoT devices was placed in a physical location with varied environmental conditions.
 
 ## Device Environmental Conditions
-00:0f:00:70:91:0a stable conditions, cooler and more humid
+00:0f:00:70:91:0a stable conditions, cooler and more humid\
 1c:bf:ce:15:ec:4d highly variable temperature and humidity
 b8:27:eb:bf:9d:51 stable conditions, warmer and dryer
 
