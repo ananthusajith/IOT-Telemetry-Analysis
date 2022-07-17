@@ -4,7 +4,7 @@ This project is regarding the digital assessment for the course Wireless Adhoc a
 The data was generated from a series of three identical, custom-built, breadboardbased sensor arrays. Each array was connected to a Raspberry Pi devices. Each of the
 three IoT devices was placed in a physical location with varied environmental conditions.
 
-##Device Environmental Conditions
+## Device Environmental Conditions
 00:0f:00:70:91:0a stable conditions, cooler and more humid
 1c:bf:ce:15:ec:4d highly variable temperature and humidity
 b8:27:eb:bf:9d:51 stable conditions, warmer and dryer
